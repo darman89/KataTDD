@@ -1,3 +1,3 @@
 class Statistics:
-    def values(self):
-        pass
+    def values(self, string):
+        return []
