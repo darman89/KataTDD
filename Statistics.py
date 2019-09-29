@@ -1,3 +1,6 @@
 class Statistics:
     def values(self, string):
-        return []
+        if string == "":
+            return []
+        else:
+            return [int(string)]
